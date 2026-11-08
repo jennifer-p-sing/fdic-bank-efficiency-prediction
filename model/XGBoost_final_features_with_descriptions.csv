@@ -1,0 +1,48 @@
+﻿Feature,Importance,Description
+NCLNLSR,0.4703509,Noncurrent loans and leases to total loans and leases ratio (percent).
+core_deposit_share,0.11271667,"Core deposits divided by total deposits (COREDEP / DEP); measures reliance on stable, low-cost funding."
+log_assets,0.11221149,"Natural logarithm of total assets, with ASSET clipped at a minimum of 1: ln(max(ASSET, 1)); reduces bank-size skew."
+NIMY,0.11130582,Net interest margin: annualized net interest income as a percent of average earning assets.
+ASTEMPM,0.023652809,Assets per full-time-equivalent employee (USD millions).
+IDNCCIR,0.023231495,Noncurrent commercial and industrial loans as a percent of related loans.
+ITAX,0.009929625,"Applicable income taxes, year-to-date (USD thousands)."
+EQV,0.008920287,Equity capital to total assets ratio (percent).
+EQCDIV,0.007767093,"Cash dividends declared/paid, year-to-date (USD thousands)."
+INTEXPY,0.007151117,Cost of funding earning assets: annualized interest expense as a percent of average earning assets.
+demand_deposit_share,0.006222788,Domestic noninterest-bearing demand deposits divided by total deposits (DEPNIDOM / DEP); measures reliance on zero-interest transactional deposits.
+INTINC,0.00574939,"Total interest income, year-to-date (USD thousands)."
+premises_to_assets,0.005375281,Bank premises and fixed assets divided by total assets (BKPREM / ASSET); measures physical infrastructure investment relative to bank size.
+IDNCCONR,0.005145276,Noncurrent loans to individuals as a percent of loans to individuals.
+IDERNCVR,0.004762178,Earnings coverage of net loan charge-offs (times).
+NFAA,0.004614508,Noncurrent financial assets and other nonperforming financial assets (USD thousands).
+liability_to_assets,0.004333033,Total liabilities divided by total assets (LIAB / ASSET); measures financial leverage.
+IDT1RWAJR,0.003912585,Tier 1 risk-based capital ratio (percent).
+IDNCOTHR,0.003763484,"Noncurrent all other loans and leases, including farm loans, as a percent of related loans."
+AOAR,0.003648442,Other assets to total assets ratio (percent).
+cash_to_assets,0.003604047,Cash and balances due from depository institutions divided by total assets (CHBAL / ASSET); measures liquid reserves.
+IDLNCORR,0.003306202,Net loans and leases to core deposits ratio (percent).
+LNATRESR,0.003168407,Allowance for credit losses on loans and leases to total loans and leases ratio (percent).
+ERNASTR,0.003165711,Earning assets to total assets ratio (percent).
+NAASSET,0.002845197,Nonaccrual assets (USD thousands).
+INTINCY,0.002698776,Yield on earning assets: annualized interest income as a percent of average earning assets.
+uninsured_deposit_share,0.002680608,Estimated uninsured deposits divided by total deposits (DEPUNINS / DEP); measures reliance on potentially flight-prone deposits.
+UC,0.002675477,Unused commitments / off-balance-sheet credit commitments (USD thousands).
+LNLSDEPR,0.002626508,Net loans and leases to total deposits ratio (percent).
+EQCDIVNTINC,0.002571688,Cash dividends as a percent of net income (year-to-date).
+ELNATRY,0.002403677,"Credit-loss provision to average assets ratio, annualized (percent)."
+DEPDASTR,0.002379878,Domestic deposits to total assets ratio (percent).
+RBCRWAJ,0.002336771,Total risk-based capital ratio (percent).
+EINTEXP,0.002307241,"Total interest expense, year-to-date (USD thousands)."
+repo_funding_to_assets,0.002267141,Securities sold under agreements to repurchase divided by total assets (FREPO / ASSET); measures short-term wholesale funding reliance.
+OBSDIR,0.002256437,Off-balance-sheet derivatives exposure / related off-balance-sheet amount (USD thousands).
+FLAG_NONTRADITIONAL_MODEL,0.00217541,Flag apparently identifying a nontraditional banking model; exact definition and coding are not provided in the uploaded data dictionary or feature-engineering document.
+DEPDOM,0.002142328,Domestic deposits (USD thousands).
+P9ASSET,0.002110279,Assets 90 days or more past due and still accruing (USD thousands).
+NTLNLSR,0.002008946,Net charge-offs to average loans and leases ratio (percent).
+resale_agreement_to_assets,0.001995886,Securities purchased under agreements to resell divided by total assets (TFRA / ASSET); measures short-term interbank lending exposure.
+LNLSNTV,0.0019947,Net loans and leases to total assets ratio (percent).
+securities_to_assets,0.001964519,Total securities divided by total assets (SC / ASSET); measures investment portfolio concentration.
+NCRER,0.001922014,Noncurrent total real estate loans as a percent of related loans.
+NTLNLS,0.001907678,"Net loan and lease charge-offs, year-to-date (USD thousands)."
+NPERFV,0.001870339,Noncurrent assets plus other real estate owned to total assets ratio (percent).
+ELNATR,0.001849952,"Provision for credit losses on loans and leases, year-to-date (USD thousands)."

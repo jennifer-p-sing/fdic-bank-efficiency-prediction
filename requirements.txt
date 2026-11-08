@@ -1,0 +1,13 @@
+# Core processing
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+
+# Saved XGBoost model compatibility
+xgboost==3.4.1
+
+# Parquet input
+pyarrow>=14.0
+
+# AWS S3 access (if using pandas.read_parquet with S3)
+s3fs==2024.9.0
+fsspec==2024.9.0
